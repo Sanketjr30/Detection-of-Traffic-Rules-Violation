@@ -1,0 +1,14 @@
+
+-------------------------- Instruction to Run project on System-----------------------
+1) Firstly Install Python on your machine
+2) For Speed Detection install all the required dependencies then copy these 2 python files app2.py and tracker2.py inorder to run these program by taking ref video 
+   from dataset provided , traffic Record folder will be auto created where all the details of tracked vehicles will be saved specifying their speed, which then can be passed to licence plate recognition
+3) For licence plate you will find a file named as "packages_used_in_project_development.txt" , which contain all module names with pip installation command t install them.
+   So, install them all and execute the below command in your terminal or just run app.py file as you run any python file:
+				      python app.py
+4) This will create a server for your flask App.
+
+
+
+
+
